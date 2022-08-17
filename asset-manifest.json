@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/arena/static/css/main.3f0f2b7c.css",
+    "main.js": "/arena/static/js/main.1debd035.js",
+    "static/js/787.5c4ceba4.chunk.js": "/arena/static/js/787.5c4ceba4.chunk.js",
+    "index.html": "/arena/index.html",
+    "main.3f0f2b7c.css.map": "/arena/static/css/main.3f0f2b7c.css.map",
+    "main.1debd035.js.map": "/arena/static/js/main.1debd035.js.map",
+    "787.5c4ceba4.chunk.js.map": "/arena/static/js/787.5c4ceba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f0f2b7c.css",
+    "static/js/main.1debd035.js"
+  ]
+}
